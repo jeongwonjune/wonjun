@@ -1,0 +1,8 @@
+GLMC-2023
+cifar10
+cifar100
+deit_out_c100lt
+teacher_models
+teacher
+nohup.out
+**/__pycache__
